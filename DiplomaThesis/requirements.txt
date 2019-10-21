@@ -1,4 +1,4 @@
-Django==2.1.7
+Django==2.1.11
 django-auth-ldap3-ad==1.6.30
 django-bootstrap4==0.0.8
 django-jet==1.0.8
